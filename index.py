@@ -414,7 +414,3 @@ def main():
         command_handler(command)
 
 main()
-
-# if __name__ == '__main__':
-#
-#     main()
